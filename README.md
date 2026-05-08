@@ -8,6 +8,8 @@ My main stack includes C#, SQL Server, React, TypeScript, PHP, WordPress, and My
 
 This profile is where I share projects, experiments, and things I'm currently working on.
 
+[More about me](https://github.com/stefbartucca-rgb/stefbartucca-rgb/blob/main/cv_stefanobartucca_en.pdf)
+
 ---
 
 ### Tools & Tech
