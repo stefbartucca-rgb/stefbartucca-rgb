@@ -25,5 +25,3 @@ This profile is where I share projects, experiments, and things I'm currently wo
 - I enjoy solving annoying little problems more than I probably should
 - I’m usually working on side projects or improving existing systems
 - I prefer clean structure over unnecessary complexity
-
-  
